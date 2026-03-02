@@ -17,10 +17,10 @@ function Contact() {
                         <span className="text-blue-400">email</span>:{" "}
                         <span className="text-orange-400">"</span>
                         <a
-                            href="mailto:vijaydurgasi2005@gmail.com"
+                            href="mailto:durgasivijay2005@gmail.com"
                             className="text-orange-300 hover:underline"
                         >
-                            vijaydurgasi2005@gmail.com
+                            durgasivijay2005@gmail.com
                         </a>
                         <span className="text-orange-400">"</span>;
                     </p>
